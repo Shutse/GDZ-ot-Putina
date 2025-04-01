@@ -1,0 +1,5 @@
+﻿  Laba2_PL_Pronin.V.I.cpp
+C:\Users\User\source\repos\Laba2_PL_Pronin.V.I\MyString.h(16,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Laba2_PL_Pronin.V.I\MyString.h(27,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Laba2_PL_Pronin.V.I\Laba2_PL_Pronin.V.I.cpp(12,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Laba2_PL_Pronin.V.I.vcxproj -> C:\Users\User\source\repos\Laba2_PL_Pronin.V.I\x64\Debug\Laba2_PL_Pronin.V.I.exe

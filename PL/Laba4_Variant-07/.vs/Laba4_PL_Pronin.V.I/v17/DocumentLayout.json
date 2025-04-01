@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Laba4_PL_Pronin.V.I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABE7CCB-93E4-4CD3-92A1-4A649C1ECA11}|Laba4_PL_Pronin.V.I.vcxproj|C:\\Users\\User\\source\\repos\\Laba4_PL_Pronin.V.I\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ABE7CCB-93E4-4CD3-92A1-4A649C1ECA11}|Laba4_PL_Pronin.V.I.vcxproj|solutionrelative:Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABE7CCB-93E4-4CD3-92A1-4A649C1ECA11}|Laba4_PL_Pronin.V.I.vcxproj|C:\\Users\\User\\source\\repos\\Laba4_PL_Pronin.V.I\\Laba4_PL_Pronin.V.I.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ABE7CCB-93E4-4CD3-92A1-4A649C1ECA11}|Laba4_PL_Pronin.V.I.vcxproj|solutionrelative:Laba4_PL_Pronin.V.I.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Laba4_PL_Pronin.V.I\\Rectangle.h",
+              "RelativeDocumentMoniker": "Rectangle.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Laba4_PL_Pronin.V.I\\Rectangle.h",
+              "RelativeToolTip": "Rectangle.h",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-01T19:30:08.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laba4_PL_Pronin.V.I.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Laba4_PL_Pronin.V.I\\Laba4_PL_Pronin.V.I.cpp",
+              "RelativeDocumentMoniker": "Laba4_PL_Pronin.V.I.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Laba4_PL_Pronin.V.I\\Laba4_PL_Pronin.V.I.cpp",
+              "RelativeToolTip": "Laba4_PL_Pronin.V.I.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T19:29:50.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

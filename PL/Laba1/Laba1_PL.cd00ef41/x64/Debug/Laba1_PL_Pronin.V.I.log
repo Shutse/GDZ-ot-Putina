@@ -1,0 +1,6 @@
+﻿  Laba1_PL_Pronin.V.I.cpp
+D:\vscode\Other\NCFU GIT\GDZ-ot-Putina\PL\Laba1_Variant07\Triangle.h(56,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\vscode\Other\NCFU GIT\GDZ-ot-Putina\PL\Laba1_Variant07\Triangle.h(60,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\vscode\Other\NCFU GIT\GDZ-ot-Putina\PL\Laba1_Variant07\Triangle.h(64,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\vscode\Other\NCFU GIT\GDZ-ot-Putina\PL\Laba1_Variant07\Laba1_PL_Pronin.V.I.cpp(12,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Laba1_PL_Pronin.V.I.vcxproj -> D:\vscode\Other\NCFU GIT\GDZ-ot-Putina\PL\Laba1_Variant07\x64\Debug\Laba1_PL_Pronin.V.I.exe
