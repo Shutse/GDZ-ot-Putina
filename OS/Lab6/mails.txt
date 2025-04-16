@@ -1,0 +1,5 @@
+username@website.com
+another.user@example.com
+test_user@domain.net
+invalid-email
+simple@mail.org
